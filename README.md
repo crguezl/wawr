@@ -1,4 +1,4 @@
-# Web Applications With Ruby (not Rails)
+# Web Applications With Ruby (not Rails) by David Padilla
 
 This repo has the sample code that I used in my talk
 Web Applications with Ruby (not Rails).
